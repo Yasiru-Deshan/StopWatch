@@ -1,0 +1,13 @@
+C:\Users\Yassa\Documents\c# Basic\Classes-Exercise-1\Classes-Exercise-1\bin\Debug\netcoreapp3.1\Classes-Exercise-1.exe
+C:\Users\Yassa\Documents\c# Basic\Classes-Exercise-1\Classes-Exercise-1\bin\Debug\netcoreapp3.1\Classes-Exercise-1.deps.json
+C:\Users\Yassa\Documents\c# Basic\Classes-Exercise-1\Classes-Exercise-1\bin\Debug\netcoreapp3.1\Classes-Exercise-1.runtimeconfig.json
+C:\Users\Yassa\Documents\c# Basic\Classes-Exercise-1\Classes-Exercise-1\bin\Debug\netcoreapp3.1\Classes-Exercise-1.runtimeconfig.dev.json
+C:\Users\Yassa\Documents\c# Basic\Classes-Exercise-1\Classes-Exercise-1\bin\Debug\netcoreapp3.1\Classes-Exercise-1.dll
+C:\Users\Yassa\Documents\c# Basic\Classes-Exercise-1\Classes-Exercise-1\bin\Debug\netcoreapp3.1\Classes-Exercise-1.pdb
+C:\Users\Yassa\Documents\c# Basic\Classes-Exercise-1\Classes-Exercise-1\obj\Debug\netcoreapp3.1\Classes-Exercise-1.csproj.AssemblyReference.cache
+C:\Users\Yassa\Documents\c# Basic\Classes-Exercise-1\Classes-Exercise-1\obj\Debug\netcoreapp3.1\Classes-Exercise-1.AssemblyInfoInputs.cache
+C:\Users\Yassa\Documents\c# Basic\Classes-Exercise-1\Classes-Exercise-1\obj\Debug\netcoreapp3.1\Classes-Exercise-1.AssemblyInfo.cs
+C:\Users\Yassa\Documents\c# Basic\Classes-Exercise-1\Classes-Exercise-1\obj\Debug\netcoreapp3.1\Classes-Exercise-1.csproj.CoreCompileInputs.cache
+C:\Users\Yassa\Documents\c# Basic\Classes-Exercise-1\Classes-Exercise-1\obj\Debug\netcoreapp3.1\Classes-Exercise-1.dll
+C:\Users\Yassa\Documents\c# Basic\Classes-Exercise-1\Classes-Exercise-1\obj\Debug\netcoreapp3.1\Classes-Exercise-1.pdb
+C:\Users\Yassa\Documents\c# Basic\Classes-Exercise-1\Classes-Exercise-1\obj\Debug\netcoreapp3.1\Classes-Exercise-1.genruntimeconfig.cache
